@@ -3,7 +3,7 @@
 <h1 align="center">
 <p align="center">
   <a href="https://github.com/simran5994/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=45&lines=Hi+There+🙋🏻‍♀️;I+am+Shimran+Panigrahi;I+am+a+Software+Engineer;I+have+8%2B+years+of+development+experience+in+Software+Engineering&center=true&width=1000&height=80&color=ADD8E6&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=45&lines=Hey+There!+🙋🏻‍♀️;I+am+Shimran+Panigrahi;I+am+a+Software+Engineer;I+have+8%2B+years+of+development+experience+in+Software+Engineering&center=true&width=1000&height=80&color=ADD8E6&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 </h1>
